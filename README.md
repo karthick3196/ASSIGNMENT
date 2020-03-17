@@ -108,8 +108,8 @@ Question.json
   "Question2"
 "2.What is the State  of Water? "
 {
-  "colour": "Liquid",
-  "colour": "Gas",
-  "colour": "Solid"
+  "State": "Liquid",
+  "State": "Gas",
+  "State": "Solid"
 
 }
